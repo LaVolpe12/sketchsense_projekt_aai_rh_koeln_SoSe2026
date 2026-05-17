@@ -1,0 +1,34 @@
+[
+  "ant", "bear", "butterfly", "camel", "cat",
+  "dog", "dolphin", "elephant", "frog", "giraffe",
+  "horse", "kangaroo", "lion", "monkey", "octopus",
+  "penguin", "rabbit", "shark", "snake", "spider",
+  "whale", "zebra",
+
+  "airplane", "ambulance", "bicycle", "bus", "car",
+  "helicopter", "motorbike", "sailboat", "train", "truck",
+
+  "cactus", "campfire", "cloud", "flower", "lightning",
+  "moon", "mountain", "mushroom", "rainbow", "snowflake",
+  "sun", "tree",
+
+  "apple", "banana", "broccoli", "cake", "coffee cup",
+  "donut", "hamburger", "hot dog", "pineapple", "pizza",
+  "strawberry", "watermelon",
+
+  "backpack", "bed", "book", "chair", "clock",
+  "cup", "envelope", "eyeglasses", "hammer", "key",
+  "pencil", "scissors", "shoe", "telephone", "umbrella",
+
+  "barn", "bridge", "castle", "church", "house",
+  "lighthouse", "skyscraper", "tent",
+
+  "cello", "drums", "guitar", "harp", "piano",
+  "saxophone", "trumpet", "violin",
+
+  "baseball bat", "basketball", "hockey stick", "skateboard",
+  "soccer ball", "yoga",
+
+  "crown", "diamond", "hourglass", "hot air balloon",
+  "smiley face", "snowman", "star"
+]

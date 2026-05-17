@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# ML artifacts (large files — not in repo)
+ml/data/
+ml/models/X_test.npy
+ml/models/y_test.npy
+ml/train_log.txt
+ml/models/confusion_matrix.png
+
+# Temp files
+generate_pdf.py
+_report_tmp.html
+*.part
+
+# Node
+web/node_modules/
+web/dist/
+
+# OS
+.DS_Store
+Thumbs.db
